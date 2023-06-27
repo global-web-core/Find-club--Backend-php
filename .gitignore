@@ -1,0 +1,9 @@
+*/logs
+/_DB
+/conf
+/dump
+*/config
+migrations.txt
+.htaccess
+robots.txt
+.DS_Store
